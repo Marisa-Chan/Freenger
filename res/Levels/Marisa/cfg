@@ -1,0 +1,27 @@
+background = 	"Marisa.png";
+threads =	"THREAD.png";
+cursor = 	"ARROW_CURSOR.png";
+
+block:
+{
+ x_pos = 175;
+ rgba = 0x00000033;
+};
+
+candle:
+{
+ x = 350;
+ y = 290;
+};
+
+brush:
+{
+ x = 420;
+ y = 290;
+};
+
+score:
+{
+ x = 485;
+ y = 299;
+};

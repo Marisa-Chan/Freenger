@@ -1,0 +1,698 @@
+# depslib dependency file v1.0
+1284966325 source:/home/marisa/work/Freenger/Graph.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	"System.h"
+	"Graph.h"
+
+1277021595 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1277021595 /usr/include/SDL/SDL_platform.h
+
+1277021595 /usr/include/SDL/begin_code.h
+
+1277021595 /usr/include/SDL/close_code.h
+
+1277021595 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_keysym.h
+
+1277021595 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1277021595 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1264241726 /usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1258262602 /usr/include/SDL/SDL_gfxPrimitives.h
+	<math.h>
+	"SDL.h"
+
+1284966355 source:/home/marisa/work/Freenger/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Game.h"
+	"System.h"
+	"Graph.h"
+	"Sound.h"
+
+1284966260 /home/marisa/work/Freenger/Graph.h
+	<SDL/SDL.h>
+
+1258262602 /usr/include/SDL/SDL_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1281981461 source:/home/zidane/Projects/Freenger/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Game.h"
+	"System.h"
+	"Graph.h"
+	"Sound.h"
+
+1281948922 /home/zidane/Projects/Freenger/Graph.h
+	<SDL/SDL.h>
+
+1281972909 source:/home/zidane/Projects/Freenger/Graph.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	"System.h"
+	"Graph.h"
+
+1284965397 source:/home/marisa/work/Freenger/Game.cpp
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"Graph.h"
+	"Game.h"
+	"System.h"
+	"Sound.h"
+
+1284965387 /home/marisa/work/Freenger/Game.h
+
+1281620611 source:/home/zidane/Work/Freenger/Graph.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	"System.h"
+	"Graph.h"
+
+1281625802 source:/home/zidane/Work/Freenger/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Game.h"
+	"System.h"
+	"Graph.h"
+
+1281611076 /home/zidane/Work/Freenger/Game.h
+
+1281620425 /home/zidane/Work/Freenger/Graph.h
+	<SDL/SDL.h>
+
+1281621108 source:/home/zidane/Work/Freenger/Game.cpp
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	"Graph.h"
+	"Game.h"
+	"System.h"
+
+1281981211 source:/home/zidane/Projects/Freenger/Game.cpp
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_rotozoom.h>
+	"Graph.h"
+	"Game.h"
+	"System.h"
+	"Sound.h"
+
+1281948761 /home/zidane/Projects/Freenger/Game.h
+
+1281625762 /home/zidane/Work/Freenger/System.h
+	<libconfig.h>
+
+1281625775 source:/home/zidane/Work/Freenger/System.cpp
+	<SDL/SDL.h>
+	<inttypes.h>
+	<libconfig.h>
+	<time.h>
+	<dirent.h>
+
+1281487798 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1281487786 /usr/include/features.h
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1281487806 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1281487798 /usr/include/bits/wordsize.h
+
+1281487786 /usr/include/gnu/stubs.h
+	<bits/wordsize.h>
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+
+1281487825 /usr/include/gnu/stubs-32.h
+
+1281487804 /usr/include/bits/waitflags.h
+
+1281487804 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1281487801 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1281487801 /usr/include/bits/endian.h
+
+1281487801 /usr/include/bits/byteswap.h
+
+1281487787 /usr/include/xlocale.h
+
+1281487804 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1281487804 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1281487804 /usr/include/bits/typesizes.h
+
+1281487802 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1281487802 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+
+1281487806 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+
+1281487806 /usr/include/bits/select.h
+
+1281487798 /usr/include/bits/sigset.h
+
+1281487804 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1281487804 /usr/include/bits/pthreadtypes.h
+
+1281487798 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1281487798 /usr/include/bits/stdlib.h
+
+1281487798 /usr/include/bits/stdlib-ldbl.h
+
+1281487800 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1281487800 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1281487800 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1281487802 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1281487802 /usr/include/bits/wchar.h
+
+1281487808 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1281487802 /usr/include/bits/wchar2.h
+
+1281487802 /usr/include/bits/wchar-ldbl.h
+
+1281487786 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1281487800 /usr/include/bits/stdio-lock.h
+	<bits/libc-lock.h>
+	<lowlevellock.h>
+
+1281487786 /usr/include/bits/libc-lock.h
+	<pthread.h>
+	<stddef.h>
+	<lowlevellock.h>
+	<tls.h>
+	<pthread-functions.h>
+	<bp-sym.h>
+
+1281487813 /usr/include/pthread.h
+	<features.h>
+	<endian.h>
+	<sched.h>
+	<time.h>
+	<bits/pthreadtypes.h>
+	<bits/setjmp.h>
+	<bits/wordsize.h>
+
+1281487804 /usr/include/sched.h
+	<features.h>
+	<bits/types.h>
+	<stddef.h>
+	<time.h>
+	<bits/sched.h>
+
+1281487804 /usr/include/bits/sched.h
+
+1281487797 /usr/include/bits/setjmp.h
+
+1281487800 /usr/include/bits/libio-ldbl.h
+
+1281487799 /usr/include/bits/stdio_lim.h
+
+1281487800 /usr/include/bits/sys_errlist.h
+
+1281487804 /usr/include/getopt.h
+	<ctype.h>
+
+1281487794 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1281487800 /usr/include/bits/stdio.h
+
+1281487800 /usr/include/bits/stdio2.h
+
+1281487800 /usr/include/bits/stdio-ldbl.h
+
+1281487801 /usr/include/malloc.h
+	<features.h>
+	<stddef.h>
+	<stdio.h>
+
+1281487801 /usr/include/memory.h
+	<features.h>
+	<string.h>
+
+1281487801 /usr/include/string.h
+	<features.h>
+	<stddef.h>
+	<xlocale.h>
+	<bits/string.h>
+	<bits/string2.h>
+	<bits/string3.h>
+
+1281487801 /usr/include/bits/string.h
+
+1281487801 /usr/include/bits/string2.h
+	<endian.h>
+	<bits/types.h>
+	<stdlib.h>
+
+1281487801 /usr/include/bits/string3.h
+
+1281487801 /usr/include/strings.h
+	<features.h>
+	<stddef.h>
+	<xlocale.h>
+
+1281487798 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1281487798 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1281487786 /usr/include/iconv.h
+	<features.h>
+	<stddef.h>
+
+1281487796 /usr/include/math.h
+	<features.h>
+	<bits/huge_val.h>
+	<bits/huge_valf.h>
+	<bits/huge_vall.h>
+	<bits/inf.h>
+	<bits/nan.h>
+	<bits/mathdef.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathinline.h>
+
+1281487796 /usr/include/bits/huge_val.h
+	<endian.h>
+
+1281487796 /usr/include/bits/huge_valf.h
+
+1281487796 /usr/include/bits/huge_vall.h
+
+1281487796 /usr/include/bits/inf.h
+
+1281487796 /usr/include/bits/nan.h
+	<endian.h>
+
+1281487796 /usr/include/bits/mathdef.h
+
+1281487796 /usr/include/bits/mathcalls.h
+
+1281487796 /usr/include/bits/mathinline.h
+
+1263384950 /usr/include/libconfig.h
+	<stdio.h>
+
+1281487802 /usr/include/dirent.h
+	<features.h>
+	<bits/types.h>
+	<bits/dirent.h>
+	<bits/types.h>
+	<bits/posix1_lim.h>
+	<stddef.h>
+
+1281487802 /usr/include/bits/dirent.h
+
+1281487804 /usr/include/bits/posix1_lim.h
+	<bits/local_lim.h>
+
+1281487804 /usr/include/bits/local_lim.h
+	<linux/limits.h>
+
+1274434556 /usr/include/linux/limits.h
+
+1281897668 /home/zidane/Projects/Freenger/System.h
+	<libconfig.h>
+
+1281981641 source:/home/zidane/Projects/Freenger/System.cpp
+	<SDL/SDL.h>
+	<inttypes.h>
+	<libconfig.h>
+	<time.h>
+	<dirent.h>
+	"mylist.h"
+
+1281723798 source:/home/zidane/Projects/Freenger/mylist.cpp
+	<stdlib.h>
+	"mylist.h"
+
+1281723935 /home/zidane/Projects/Freenger/mylist.h
+
+1284958806 /home/marisa/work/Freenger/System.h
+	<libconfig.h>
+
+1284965994 source:/home/marisa/work/Freenger/System.cpp
+	<SDL/SDL.h>
+	<inttypes.h>
+	<libconfig.h>
+	<time.h>
+	<dirent.h>
+	"mylist.h"
+
+1284707575 /home/marisa/work/Freenger/mylist.h
+
+1284706555 source:/home/marisa/work/Freenger/mylist.cpp
+	<stdlib.h>
+	"mylist.h"
+
+1281981618 source:/home/zidane/Projects/Freenger/Sound.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_audio.h>
+	<SDL/SDL_mixer.h>
+	"System.h"
+	"Sound.h"
+
+1281981457 /home/zidane/Projects/Freenger/Sound.h
+
+1267190552 /usr/include/SDL/SDL_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1277021595 /usr/include/SDL/SDL_types.h
+	"SDL_stdinc.h"
+
+1282017213 /home/marisa/work/Freenger/Sound.h
+
+1282019757 source:/home/marisa/work/Freenger/Sound.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_audio.h>
+	<SDL/SDL_mixer.h>
+	"System.h"
+	"Sound.h"
+
+1281487804 /usr/include/sys/stat.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<bits/stat.h>
+
+1281487804 /usr/include/bits/stat.h
+
